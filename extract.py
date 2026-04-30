@@ -1,4 +1,5 @@
 import pandas as pd
+
 print ("extract data")
 
 data = {
